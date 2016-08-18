@@ -303,7 +303,7 @@ div.article-header-container div.background-image-container div.background-image
     padding-top: 20px; }
     @media screen and (min-width: 35.5em) {
       div.article-header-container div.background-image-container div.background-image-small div.title-container h1 {
-        font-size: 60px; } }
+        font-size: 25px; } }
   div.article-header-container div.background-image-container div.background-image-small div.title-container h4 {
     font-size: 24px;
     font-weight: 300;
